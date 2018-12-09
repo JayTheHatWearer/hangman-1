@@ -13,7 +13,7 @@
 ;;  Copyright (C) 2011  Fabien LOISON                                       ;;
 ;;  Copyright (C) 2011  Mathilde BOUTIGNY                                   ;;
 ;;  Copyright (C) 2011  Vincent PEYROUSE                                    ;;
-;;  Copyright (C) 2011  Germain CARRÉ                                       ;;
+;;  Copyright (C) 2011  Germain CARRÃ‰                                       ;;
 ;;  Copyright (C) 2011  Matthis FRENAY                                      ;;
 ;;                                                                          ;;
 ;;  HangMan is free software: you can redistribute it and/or modify         ;;
@@ -57,7 +57,7 @@ push bx
 push cx
 push dx
 
-;Get the mode
+;Get the mode
 call _mode_menu
 
 ;Back to the main menu if necessary
